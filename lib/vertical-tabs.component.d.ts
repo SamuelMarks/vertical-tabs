@@ -23,7 +23,7 @@ export declare class VerticalTabsComponent implements AfterContentInit {
     closeTab(tab: VerticalTabComponent): void;
     closeActiveTab(): void;
     toggleSelect(): void;
-    private toggleTabActivations();
-    private setOptions();
-    private checkSelectAll();
+    private toggleTabActivations;
+    private setOptions;
+    private checkSelectAll;
 }
