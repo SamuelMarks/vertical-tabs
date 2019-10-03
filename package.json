@@ -1,19 +1,19 @@
 {
-  "name": "vertical-tabs",
-  "version": "0.0.3",
+  "name": "ng-vertical-tabs",
+  "version": "0.0.1",
   "peerDependencies": {
-    "@angular/common": "^6.0.0",
-    "@angular/core": "^6.0.0"
+    "@angular/common": "^8.2.9",
+    "@angular/core": "^8.2.9"
   },
-  "main": "bundles/vertical-tabs.umd.js",
-  "module": "fesm5/vertical-tabs.js",
-  "es2015": "fesm2015/vertical-tabs.js",
-  "esm5": "esm5/vertical-tabs.js",
-  "esm2015": "esm2015/vertical-tabs.js",
-  "fesm5": "fesm5/vertical-tabs.js",
-  "fesm2015": "fesm2015/vertical-tabs.js",
-  "typings": "vertical-tabs.d.ts",
-  "metadata": "vertical-tabs.metadata.json",
+  "main": "bundles/ng-vertical-tabs.umd.js",
+  "module": "fesm5/ng-vertical-tabs.js",
+  "es2015": "fesm2015/ng-vertical-tabs.js",
+  "esm5": "esm5/ng-vertical-tabs.js",
+  "esm2015": "esm2015/ng-vertical-tabs.js",
+  "fesm5": "fesm5/ng-vertical-tabs.js",
+  "fesm2015": "fesm2015/ng-vertical-tabs.js",
+  "typings": "ng-vertical-tabs.d.ts",
+  "metadata": "ng-vertical-tabs.metadata.json",
   "sideEffects": false,
   "dependencies": {
     "tslib": "^1.9.0"

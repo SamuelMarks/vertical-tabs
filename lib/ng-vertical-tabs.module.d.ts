@@ -1,4 +1,4 @@
 import { ModuleWithProviders } from '@angular/core';
-export declare class VerticalTabsModule {
+export declare class NgVerticalTabsModule {
     static forRoot(): ModuleWithProviders;
 }

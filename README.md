@@ -1,59 +1,24 @@
-angular-vertical-material-tabs
-==============================
-Simple vertical tabs using `@angular/material` and `@angular/flex-layout`.
+# NgVerticalTabs
 
+This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.9.
 
-## Install
+## Code scaffolding
 
-    npm i --save SamuelMarks/vertical-tabs
-
-## Usage
-
-See [example](src/app). Only difference in your app is your imports:
-
-    import { MaterialTabsModule } from 'angular-vertical-material-tabs/dist/material-tabs';
-    
-    // add it to the `imports:` of your relevant `@NgModule`
-    imports: [ MaterialTabsModule.forRoot() ]
-
-Then in your template:
-
-    <vertical-material-tabs [multi]=true [selectFirstTab]=false [showSelectAll]=true>
-      <vertical-material-tab tabTitle="Tab 0">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Mauris tincidunt mattis neque lacinia dignissim.
-        Morbi ex orci, bibendum et varius vel, porttitor et magna.
-      </vertical-material-tab>
-    
-      <vertical-material-tab tabTitle="Tab b">
-        Curabitur efficitur eleifend nulla, eget porta diam sodales in.
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Maecenas vestibulum libero lacus, et porta ex tincidunt quis.
-      </vertical-material-tab>
-    
-      <vertical-material-tab tabTitle="Tab 2">
-        Sed dictum, diam et vehicula sollicitudin, eros orci viverra diam, et pretium
-        risus nisl eget ex. Integer lacinia commodo ipsum, sit amet consectetur magna
-        hendrerit eu.
-      </vertical-material-tab>
-    </vertical-material-tabs>
-
-
-## Approach
-Started with Juri Strumpflohner's egghead project, then:
-
-  - removed Twitter Bootstrap
-  - added `@angular/material`
-  - added `@angular/flex-layout`
-
-Finally was able to implement new features and resolve existent bugs :)
-
+Run `ng generate component component-name --project ng-vertical-tabs` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module --project ng-vertical-tabs`.
+> Note: Don't forget to add `--project ng-vertical-tabs` or else it will be added to the default project in your `angular.json` file. 
 
 ## Build
 
-    rm -rf dist
-    ng build material-tabs --prod
+Run `ng build ng-vertical-tabs` to build the project. The build artifacts will be stored in the `dist/` directory.
 
----
+## Publishing
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
+After building your library with `ng build ng-vertical-tabs`, go to the dist folder `cd dist/ng-vertical-tabs` and run `npm publish`.
+
+## Running unit tests
+
+Run `ng test ng-vertical-tabs` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
