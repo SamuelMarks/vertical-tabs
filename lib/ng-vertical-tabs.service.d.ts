@@ -1,4 +1,4 @@
-export declare class VerticalTabsService {
+export declare class NgVerticalTabsService {
     multi: boolean;
     selectedOptions: string[];
     constructor();

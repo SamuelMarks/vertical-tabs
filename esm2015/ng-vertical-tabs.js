@@ -1,0 +1,10 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,constantProperty,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/**
+ * Generated bundle index. Do not edit.
+ */
+export { NgVerticalTabsService, NgVerticalTabComponent, NgVerticalTabsComponent, NgVerticalTabsModule } from './public-api';
+export { DynamicTabAnchorDirective as ɵa } from './lib/dynamic-tab-anchor.directive';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibmctdmVydGljYWwtdGFicy5qcyIsInNvdXJjZVJvb3QiOiJuZzovL25nLXZlcnRpY2FsLXRhYnMvIiwic291cmNlcyI6WyJuZy12ZXJ0aWNhbC10YWJzLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7Ozs7QUFJQSw2R0FBYyxjQUFjLENBQUM7QUFFN0IsT0FBTyxFQUFDLHlCQUF5QixJQUFJLEVBQUUsRUFBQyxNQUFNLG9DQUFvQyxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLyoqXG4gKiBHZW5lcmF0ZWQgYnVuZGxlIGluZGV4LiBEbyBub3QgZWRpdC5cbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL3B1YmxpYy1hcGknO1xuXG5leHBvcnQge0R5bmFtaWNUYWJBbmNob3JEaXJlY3RpdmUgYXMgybVhfSBmcm9tICcuL2xpYi9keW5hbWljLXRhYi1hbmNob3IuZGlyZWN0aXZlJzsiXX0=
